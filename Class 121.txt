@@ -1,0 +1,5 @@
+Refer the below :
+https://www.geeksforgeeks.org/python-opencv-cv2-imshow-method/
+
+The output for this class will be the video captured by camera.We need to hold a red color cloth and we can see through it.
+That is the Magic.Called as Invisible Cloak.
